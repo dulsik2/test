@@ -53,6 +53,6 @@
 <br/>
 
 ## 사용자 인터페이스 요구사항
-<img src="https://t1.daumcdn.net/cfile/tistory/26650738545791312B" width="10" height="10">
+<img src="https://t1.daumcdn.net/cfile/tistory/26650738545791312B" width="100" height="100">
 1. djWjrn
 2. djWJrn  
