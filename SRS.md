@@ -53,12 +53,44 @@
 <br/>
 
 ## 사용자 인터페이스 요구사항
-!["test"](https://github.com/dulsik2/test/blob/master/img/1.jpg?raw=true)
+<img src="https://github.com/dulsik2/test/blob/master/img/1.jpg?raw=true" width="400px">
 
-1. ID와 PW를 입력받는 에디트창 
-2. 로그인 버튼 > 예외 사항 발생 시 경고창 출력 
+1. ID와 PW를 입력받는 에디트창
+2. 로그인 버튼 > 예외 사항 발생 시 경고창 출력
 3. 회원가입 버튼 > 회원가입 창으로 연결
 
-!["test"](https://github.com/dulsik2/test/blob/master/img/2.jpg?raw=true)
+<img src="https://github.com/dulsik2/test/blob/master/img/2.jpg?raw=true" width="400px">
 
-1. 하위
+1. 사용자가 사용할 ID, PW, 별명을 입력받는 에디트창
+2. 완료 버튼 > 예외 사항 발생 시 경고창 출력
+
+<img src="https://github.com/dulsik2/test/blob/master/img/3.jpg?raw=true" width="400px">
+
+1. 정렬 기준 콤보 박스와 체크 버튼
+2. 방 타이틀, 파일 수, 업로더 정보, 생성 날짜 표시
+3. 스크롤 바
+4. 삭제할 방 선택 후 방 삭제 버튼 > 삭제 여부 재확인 및 예외에 대한 경고창 출력
+5. 방 만들기 버튼 > 방 생성 창으로 연결
+
+<img src="https://github.com/dulsik2/test/blob/master/img/4.jpg?raw=true" width="400px">
+
+1. 방 타이틀을 입력받는 에디트창
+2. 완료 버튼 > 예외 사항 발생 시 경고창 출력
+
+<img src="https://github.com/dulsik2/test/blob/master/img/5.jpg?raw=true" width="400px">
+
+1. 정렬 기준 콤보 박스와 체크 버튼
+2. 파일 이름, "좋아요" 수, 업로더 정보, 생성 날짜 표시
+3. 스크롤 바
+4. 삭제할 파일 선택 후 파일 삭제 버튼 > 삭제 여부 재확인 및 예외에 대한 경고창 출력
+5. 업로드 버튼 > 파일 불러오기 창으로 연결
+
+<img src="https://github.com/dulsik2/test/blob/master/img/6.jpg?raw=true" width="400px">
+
+1. 파일 불러오기 창
+
+<img src="https://github.com/dulsik2/test/blob/master/img/7.jpg?raw=true" width="400px">
+
+1. 파일 이름 출력
+2. "좋아요" 버튼 
+3. 파이썬 문법 기준으로 하이라이팅된 텍스트 출력
