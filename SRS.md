@@ -53,7 +53,7 @@
 <br/>
 
 ## 사용자 인터페이스 요구사항
-!["test"](https://t1.daumcdn.net/cfile/tistory/26650738545791312B)
+!["test"](https://t1.daumcdn.net/cfile/tistory/26650738545791312B){: width="30%" height="30%"}
 
 1. djWjrn
 2. djWJrn  
