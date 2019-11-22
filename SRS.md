@@ -58,12 +58,15 @@
 >1. ID와 PW를 입력받는 에디트창
 >2. 로그인 버튼 > 예외 사항 발생 시 경고창 출력
 >3. 회원가입 버튼 > 회원가입 창으로 연결
+
 <br/>
 
 <img src="https://github.com/dulsik2/test/blob/master/img/2.jpg?raw=true" width="400px">
 
 >1. 사용자가 사용할 ID, PW, 별명을 입력받는 에디트창
 >2. 완료 버튼 > 예외 사항 발생 시 경고창 출력
+
+<br/>
 
 <img src="https://github.com/dulsik2/test/blob/master/img/3.jpg?raw=true" width="400px">
 
@@ -73,10 +76,15 @@
 >4. 삭제할 방 선택 후 방 삭제 버튼 > 삭제 여부 재확인 및 예외에 대한 경고창 출력
 >5. 방 만들기 버튼 > 방 생성 창으로 연결
 
+<br/>
+
+
 <img src="https://github.com/dulsik2/test/blob/master/img/4.jpg?raw=true" width="400px">
 
 >1. 방 타이틀을 입력받는 에디트창
 >2. 완료 버튼 > 예외 사항 발생 시 경고창 출력
+
+<br/>
 
 <img src="https://github.com/dulsik2/test/blob/master/img/5.jpg?raw=true" width="400px">
 
@@ -86,9 +94,13 @@
 >4. 삭제할 파일 선택 후 파일 삭제 버튼 > 삭제 여부 재확인 및 예외에 대한 경고창 출력
 >5. 업로드 버튼 > 파일 불러오기 창으로 연결
 
+<br/>
+
 <img src="https://github.com/dulsik2/test/blob/master/img/6.jpg?raw=true" width="400px">
 
 >1. 파일 불러오기 창
+
+<br/>
 
 <img src="https://github.com/dulsik2/test/blob/master/img/7.jpg?raw=true" width="400px">
 
