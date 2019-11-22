@@ -53,4 +53,4 @@
 
 
 2. 사용자 인터페이스 요구사항
-!["test"](C:\Users\licoc\Downloads\testpic.png)
+!["test"](https://t1.daumcdn.net/cfile/tistory/26650738545791312B)
