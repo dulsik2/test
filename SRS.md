@@ -53,7 +53,12 @@
 <br/>
 
 ## 사용자 인터페이스 요구사항
-<img src="https://t1.daumcdn.net/cfile/tistory/26650738545791312B" width="100" height="100">
+!["test"](https://github.com/dulsik2/test/blob/master/img/1.jpg?raw=true)
 
-1. djWjrn
-2. djWJrn  
+1. ID와 PW를 입력받는 에디트창 
+2. 로그인 버튼 > 예외 사항 발생 시 경고창 출력 
+3. 회원가입 버튼 > 회원가입 창으로 연결
+
+!["test"](https://github.com/dulsik2/test/blob/master/img/2.jpg?raw=true)
+
+1. 하위
